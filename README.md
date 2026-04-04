@@ -1,2 +1,1 @@
-# unciv-religion-mod-example
-An example for how to add religion into your mod
+This mod allows unique unit promotions — normally locked to specific civilizations or unit s — to be unlocked through religious beliefs.

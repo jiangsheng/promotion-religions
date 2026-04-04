@@ -1,43 +1,179 @@
-[
+[	
+	{
+		 "name":"Riders of the Eternal Horizon",
+		"type": "Founder",
+		"uniques": ["All newly-trained [Military] units [in all cities] receive the [Great Generals I] promotion"]
+	},
+	{
+		"name": "The Shogun’s Divine Mandate",
+		"type": "Enhancer",
+		"uniques":  ["All newly-trained [Military] units [in all cities] receive the [Great Generals II] promotion"]
+	},
+	{
+		"name": "The Keshik Oath of Steel",
+		"type": "Founder",
+		"uniques":  ["All newly-trained [Military] units [in all cities] receive the [Quick Study] promotion"]
+	},
+	{
+		"name": "Dominion of the Sacred Patu",
+		"type": "Pantheon",
+		"uniques":  ["All newly-trained [Military] units [in all cities] receive the [Haka War Dance] promotion"]
+	},
+	{
+		"name": "The Wind‑Sling Creed",
+		"type": "Follower",
+		"uniques":  ["All newly-trained [Military] units [in all cities] receive the [Slinger Withdraw] promotion"]
+	},
+	{
+		"name": "The Faith of the Eternal Picts",
+		"type": "Pantheon",
+		"uniques":  ["All newly-trained [Military] units [in all cities] receive the [Pictish Courage] promotion"]
+	},
+	{
+		"name": "The Roaring Sun Cult",
+		"type": "Founder",
+		"uniques":  ["All newly-trained [Military] units [in all cities] receive the [Home Sweet Home] promotion"]
+	},
+	{
+		"name": "The Ironwood Warrior Order",
+		"type": "Pantheon",
+		"uniques":  ["All newly-trained [Military] units [in all cities] receive the [[Mohawk Warrior] ability] promotion"]
+	},
+	{
+		"name": "The Night‑Jaguar Covenant",
+		"type": "Pantheon",
+		"uniques":  ["All newly-trained [Military] units [in all cities] receive the [[Jaguar] ability] promotion"]
+	},	
+	{
+		"name": "Aurelian Continuity",
+		"type": "Enhancer",
+		"uniques":  ["All newly-trained [Military] units [in all cities] receive the [[Persian Immortal] ability] promotion"]
+	},	
+	{
+		"name": "The Gilded Horizon",
+		"type": "Pantheon",
+		"uniques":  ["All newly-trained [Military] units [in all cities] receive the [[Conquistador] ability] promotion"]
+	},	
+	{
+		"name": "The Unfailing Oath",
+		"type": "Founder",
+		"uniques":  ["All newly-trained [Military] units [in all cities] receive the [[Janissary] ability] promotion"]
+	},	
+	{
+		"name": "The Boundless Pursuit",
+		"type": "Pantheon",
+		"uniques":  ["All newly-trained [Military] units [in all cities] receive the [[Sipahi] ability] promotion"]
+	},	
+	{
+		"name": "The Winter’s Mercy",
+		"type": "Enhancer",
+		"uniques":  ["All newly-trained [Military] units [in all cities] receive the [[Cossack] ability] promotion"]
+	},
+{
+		"name": "The Silver Peak Covenant",
+		"type": "Founder",
+		"uniques":  ["All newly-trained [Military] units [in all cities] receive the [[Norwegian Ski Infantry] ability] promotion"]
+	},
+	{
+		"name": "The Celestial Intercept",
+		"type": "Pantheon",
+		"uniques":  ["All newly-trained [Fighter] units [in all cities] receive the [[Zero] ability] promotion"]
+	},
+	{
+		"name": "The Crimson Plumage",
+		"type": "Pantheon",
+		"uniques":  [
+			"All newly-trained [Military] units [in all cities] receive the [[Hussar] ability] promotion"
+		]
+	},	
+	{
+		"name": "The Sovereign’s Shadow",
+		"type": "Enhancer",
+		"uniques":  [
+			"All newly-trained [Military] units [in all cities] receive the [[Hakkapeliitta] ability] promotion"
+		]
+	},
+	{
+		"name": "The Crimson Rainfall",
+		"type": "Founder",
+		"uniques":  [
+			"All newly-trained [Military] units [in all cities] receive the [[Chu-Ko-Nu] ability] promotion"
+		]
+	},
 
 	{
-		"name": "Desert Folklore",
-		"type": "Pantheon"
-		"uniques": ["[+1 Faith] from every [Desert]"],
+		"name": "Path of the Silver Anchor",
+		"type": "Founder",
+		"uniques":  [
+			"All newly-trained [Military] units [in all cities] receive the [[Privateer] ability] promotion"
+		]
 	},
 	{
-		"name": "Goddess of Festivals",
-		"type": "Pantheon"
-		"uniques": ["[+1 Culture, +1 Faith] from every [Wine]", "[+1 Culture, +1 Faith] from every [Incense]"],
+		"name": "Covenant of the High Tide",
+		"type": "Pantheon",
+		"uniques":  [
+			"All newly-trained [Military] units [in all cities] receive the [Sea Nomads] promotion"
+		]
 	},
 	{
-		"name": "God of the Sea",
-		"type": "Pantheon"
-		"uniques": ["[+1 Production] from every [Fishing Boats]"],
+		"name": "Order of the Reactive Plate",
+		"type": "Pantheon",
+		"uniques":  [
+			"All newly-trained [Military] units [in all cities] receive the [[M-84] ability] promotion"
+		]
 	},
 	{
-		"name": "Goddess of the Hunt",
-		"type": "Pantheon"
-		"uniques": ["[+1 Food] from every [Camp]"],
+		"name": "The Radiant Command",
+		"type": "Founder",
+		"uniques":  [
+			"All newly-trained [Military] units [in all cities] receive the [Leadership] promotion"
+		]
 	},
 	{
-		"name": "Oral Tradition",
-		"type": "Pantheon"
-		"uniques": ["[+1 Culture] from every [Plantation]"],
+		"name": "The Way of the Unbroken",
+		"type": "Pantheon",
+		"uniques":  [
+			"All newly-trained [Military] units [in all cities] receive the [Dojo] promotion"
+		]
 	},
 	{
-		"name": "Sacred Path",
-		"type": "Pantheon"
-		"uniques": ["[+1 Culture] from every [Jungle]"],
+		"name": "The Zenith Path",
+		"type": "Pantheon",
+		"uniques":  [
+			"All newly-trained [Military] units [in all cities] receive the [Phoenician Heritage] promotion"
+		]
 	},
 	{
-		"name": "Stone Circles",
-		"type": "Pantheon"
-		"uniques": ["[+2 Faith] from every [Quarry]"],
+		"name": "Covenant of the Delta Stride",
+		"type": "Pantheon",
+		"uniques":  [
+			"All newly-trained [Military] units [in all cities] receive the [Phoenician Heritage] promotion"
+		]
 	},
 	{
-		"name": "Religious Idols",
-		"type": "Pantheon"
-		"uniques": ["[+1 Culture, +1 Faith] from every [Gold]", "[+1 Culture, +1 Faith] from every [Silver]"],
+		"name": "The Shifting Omen",
+		"type": "Pantheon",
+		"uniques":  [
+			"All newly-trained [Military] units [in all cities] receive the [Mystic Blade] promotion"
+		]
+	},
+	{
+		"name": "Covenant of the Iron Buffalo",
+		"type": "Pantheon",
+		"uniques":  [
+			"All newly-trained [Military] units [in all cities] receive the [Buffalo Horns I] promotion"
+		]
+	},{
+		"name": "The Living Talisman",
+		"type": "Pantheon",
+		"uniques":  [
+			"All newly-trained [Military] units [in all cities] receive the [Sampy] promotion"
+		]
+	},{
+		"name": "The Iron Chancellor’s Vow",
+		"type": "Pantheon",
+		"uniques":  [
+			"All newly-trained [Military] units [in all cities] receive the [Gehorsam] promotion"
+		]
 	}
 ]

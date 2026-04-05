@@ -147,7 +147,7 @@
 		"name": "Covenant of the Delta Stride",
 		"type": "Pantheon",
 		"uniques":  [
-			"All newly-trained [Military] units [in all cities] receive the [Phoenician Heritage] promotion"
+			"All newly-trained [Military] units [in all cities] receive the [War Canoes] promotion"
 		]
 	},
 	{
@@ -169,11 +169,70 @@
 		"uniques":  [
 			"All newly-trained [Military] units [in all cities] receive the [Sampy] promotion"
 		]
-	},{
+	},
+	{
 		"name": "The Iron Chancellor’s Vow",
 		"type": "Pantheon",
 		"uniques":  [
 			"All newly-trained [Military] units [in all cities] receive the [Gehorsam] promotion"
 		]
-	}
+	},
+	{
+		"name": "The Salt-Road Mandate",
+		"type": "Pantheon",
+		"uniques":  [
+			"All newly-trained [Military] units [in all cities] receive the [{Homeland Guardian}{Desert Warrior}] promotion"
+		]
+	},	
+	{
+		"name": "The Onyx Pachyderm",
+		"type": "Pantheon",
+		"uniques":  [
+			"All newly-trained [Military] units [in all cities] receive the [Heavy Charge] promotion"
+		]
+	},
+	{
+		"name": "Sovereign of the White North",
+		"type": "Pantheon",
+		"uniques":  [
+			"All newly-trained [Military] units [in all cities] receive the [Sauna] promotion"
+		]
+	},
+	{
+		"name": "The Whispering Glen",
+		"type": "Pantheon",
+		"uniques":  [
+			"All newly-trained [Military] units [in all cities] receive the [Altitude Training] promotion"
+		]
+	},
+	{
+		"name": "The Rolling Zenith",
+		"type": "Pantheon",
+		"uniques":  [
+			"All newly-trained [Military] units [in all cities] receive the [Swift Charge] promotion"
+		]
+	},
+	{
+		"name": "Path of the Lotus Throne",
+		"type": "Pantheon",
+		"uniques":  [
+			"All newly-trained [Military] units [in all cities] receive the [Swift Charge] promotion"
+		]
+	
+	},
+	{
+		"name": "The Ancestral Whispers",
+		"type": "Pantheon",
+		"uniques":  [
+			"All newly-trained [Military] units [in all cities] receive the [Native Tongue] promotion"
+		]
+	},
+	
+	{
+		"name": "The Silent Vanguard",
+		"type": "Pantheon",
+		"uniques":  [
+			"All newly-trained [Military] units [in all cities] receive the [Vietnamese Walking] promotion"
+		]
+	},
 ]

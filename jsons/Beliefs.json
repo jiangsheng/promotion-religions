@@ -1,12 +1,12 @@
 [	
 	{
 		 "name":"Riders of the Eternal Horizon",
-		"type": "Founder",
+		"type": "Enhancer",
 		"uniques": ["All newly-trained [Military] units [in all cities] receive the [Great Generals I] promotion"]
 	},
 	{
 		"name": "The Shogun’s Divine Mandate",
-		"type": "Enhancer",
+		"type": "Founder",
 		"uniques":  ["All newly-trained [Military] units [in all cities] receive the [Great Generals II] promotion"]
 	},
 	{
@@ -26,22 +26,22 @@
 	},
 	{
 		"name": "The Faith of the Eternal Picts",
-		"type": "Pantheon",
+		"type": "Follower",
 		"uniques":  ["All newly-trained [Military] units [in all cities] receive the [Pictish Courage] promotion"]
 	},
 	{
 		"name": "The Roaring Sun Cult",
-		"type": "Founder",
+		"type": "Follower",
 		"uniques":  ["All newly-trained [Military] units [in all cities] receive the [Home Sweet Home] promotion"]
 	},
 	{
 		"name": "The Ironwood Warrior Order",
-		"type": "Pantheon",
+		"type": "Follower",
 		"uniques":  ["All newly-trained [Military] units [in all cities] receive the [[Mohawk Warrior] ability] promotion"]
 	},
 	{
 		"name": "The Night‑Jaguar Covenant",
-		"type": "Pantheon",
+		"type": "Follower",
 		"uniques":  ["All newly-trained [Military] units [in all cities] receive the [[Jaguar] ability] promotion"]
 	},	
 	{
@@ -105,7 +105,7 @@
 		"name": "Path of the Silver Anchor",
 		"type": "Founder",
 		"uniques":  [
-			"All newly-trained [Military] units [in all cities] receive the [[Privateer] ability] promotion"
+			"All newly-trained [Melee Water] units [in all cities] receive the [[Privateer] ability] promotion"
 		]
 	},
 	{
@@ -179,21 +179,21 @@
 	},
 	{
 		"name": "The Salt-Road Mandate",
-		"type": "Pantheon",
+		"type": "Follower",
 		"uniques":  [
 			"All newly-trained [Military] units [in all cities] receive the [{Homeland Guardian}{Desert Warrior}] promotion"
 		]
 	},	
 	{
 		"name": "The Onyx Pachyderm",
-		"type": "Pantheon",
+		"type": "Enhancer",
 		"uniques":  [
 			"All newly-trained [Military] units [in all cities] receive the [Heavy Charge] promotion"
 		]
 	},
 	{
 		"name": "Sovereign of the White North",
-		"type": "Pantheon",
+		"type": "Enhancer",
 		"uniques":  [
 			"All newly-trained [Military] units [in all cities] receive the [Sauna] promotion"
 		]
@@ -207,7 +207,7 @@
 	},
 	{
 		"name": "The Rolling Zenith",
-		"type": "Pantheon",
+		"type": "Follower",
 		"uniques":  [
 			"All newly-trained [Military] units [in all cities] receive the [Swift Charge] promotion"
 		]
@@ -230,7 +230,7 @@
 	
 	{
 		"name": "The Silent Vanguard",
-		"type": "Pantheon",
+		"type": "Founder",
 		"uniques":  [
 			"All newly-trained [Military] units [in all cities] receive the [Vietnamese Walking] promotion"
 		]

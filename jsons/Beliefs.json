@@ -234,5 +234,53 @@
 		"uniques":  [
 			"All newly-trained [Military] units [in all cities] receive the [Vietnamese Walking] promotion"
 		]
+	},
+	
+	{
+		"name": "The Saffron Current",
+		"type": "Founder",
+		"uniques":  [
+			"All newly-trained [Military] units [in all cities] receive the [Chain of the Earth] promotion"
+		]
+	},
+	
+	{
+		"name": "The Granite Bastion",
+		"type": "Founder",
+		"uniques":  [
+			"All newly-trained [Military] units [in all cities] receive the [Mountaineer] promotion"
+		]
+	}
+	
+	{
+		"name": "The Unbound Pioneer",
+		"type": "Pantheon",
+		"uniques":  [
+			"All newly-trained [Military] units [in all cities] receive the [Golden Age from Victories] promotion"
+		]
+	},
+	
+	{
+		"name": "Covenant of the Unblinking Eye",
+		"type": "Pantheon",
+		"uniques":  [
+			"All newly-trained [Military] units [in all cities] receive the [Extra Sight] promotion"
+		]
+	},
+	
+	{
+		"name": "The Emerald Thruway",
+		"type": "Pantheon",
+		"uniques":  [
+			"All newly-trained [Military] units [in all cities] receive the [Forest Native] promotion"
+		]
+	},
+	
+	{
+		"name": "Path of the Disciplined Rank",
+		"type": "Pantheon",
+		"uniques":  [
+			"All newly-trained [Military] units [in all cities] receive the [Laputtu] promotion"
+		]
 	}
 ]

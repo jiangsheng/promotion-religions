@@ -1,1 +1,1 @@
-This mod allows unique unit promotions — normally locked to specific civilizations or unit s — to be unlocked through religious beliefs.
+This mod allows unique unit promotions — normally only available to civilizations-specific units — to be obtainable through beliefs.

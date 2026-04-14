@@ -181,9 +181,16 @@
 		"name": "The Salt-Road Mandate",
 		"type": "Follower",
 		"uniques":  [
-			"All newly-trained [Military] units [in all cities] receive the [{Homeland Guardian}{Desert Warrior}] promotion"
+			"All newly-trained [Military] units [in all cities] receive the [Homeland Guardian] promotion"
 		]
 	},	
+	{
+		"name": "The Unyielding Oasis",
+		"type": "Follower",
+		"uniques":  [
+			"All newly-trained [Military] units [in all cities] receive the [Desert Warrior] promotion"
+		]
+	},
 	{
 		"name": "The Onyx Pachyderm",
 		"type": "Enhancer",

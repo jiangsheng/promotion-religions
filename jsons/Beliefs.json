@@ -116,13 +116,6 @@
 		]
 	},
 	{
-		"name": "Order of the Reactive Plate",
-		"type": "Pantheon",
-		"uniques":  [
-			"All newly-trained [Military] units [in all cities] receive the [[M-84] ability] promotion"
-		]
-	},
-	{
 		"name": "The Radiant Command",
 		"type": "Founder",
 		"uniques":  [
@@ -280,14 +273,6 @@
 		"type": "Pantheon",
 		"uniques":  [
 			"All newly-trained [Military] units [in all cities] receive the [Forest Native] promotion"
-		]
-	},
-	
-	{
-		"name": "Path of the Disciplined Rank",
-		"type": "Pantheon",
-		"uniques":  [
-			"All newly-trained [Military] units [in all cities] receive the [Laputtu] promotion"
 		]
 	}
 ]

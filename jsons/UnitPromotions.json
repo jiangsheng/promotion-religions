@@ -1,0 +1,183 @@
+//added for compatibility with RekMod/G&K
+[
+    {
+		"name": "[Hakkapeliitta] ability",
+		"uniques": ["Transfer Movement to [Great General]", "[+15]% Strength <when stacked with a [Great General] unit>"]
+	},
+    {
+		"name": "[Sipahi] ability",
+		"uniques": ["No movement cost to pillage"]
+	},
+    {
+		"name": "[Zero] ability",
+		"uniques": ["[+33]% Strength <vs [Fighter] units>"]
+	},
+	{
+		"name": "[Privateer] ability",
+		"uniques": ["May capture killed [Water] units"]
+	},
+	{
+		"name": "[Hussar] ability",
+		"uniques": ["[+50]% to Flank Attack bonuses"]
+	},
+    {
+        "name": "Sea Nomads", // Brunei
+        "uniques": [
+            "[-33]% maintenance costs",
+            "Can build [Water] improvements on tiles"
+        ]
+    },
+    {
+        "name": "Leadership",
+        "uniques": [
+            "[+15]% Strength bonus for [{Military} {Land}] units within [2] tiles"
+        ]
+    },
+    {
+        "name": "Dojo", // Japan
+        "uniques": [
+            "[+10]% Strength"
+        ]
+    },
+    {
+        "name": "Phoenician Heritage", // Carthage
+        "uniques": [
+            "Can pass through impassable tiles"
+        ]
+    },
+    {
+        "name": "War Canoes", // Songhai
+        "uniques": [
+            "[+100]% Strength <when defending> <when [Embarked]>"
+        ]
+    },
+    {
+        "name": "Homeland Guardian",
+        "uniques": [
+            "[+25]% Strength <when fighting in [Friendly Land] tiles>"
+        ]
+    },
+    {
+        "name": "Desert Warrior",
+        "uniques": [
+            "[+50]% Strength <when fighting in [Desert] tiles>"
+        ]
+    },
+    {
+        "name": "Heavy Charge",
+        "uniques": [
+            "[+50]% Strength <when attacking>"
+        ]
+    },
+    // Section Kris Swordsmen
+    {
+        "name": "Mystic Blade",
+        "uniques": [
+            "Comment [Gains a random special promotion upon attacking]",
+            "Triggers a [Mystic Blade] event <upon entering combat> <when attacking> <hidden from users>"
+        ]
+    },
+    // section Madegascar/////
+    {
+        "name": "Sampy",
+        "uniques": [
+            "Comment [Gains a random special promotion upon attacking]",
+            "Triggers a [Sampy] event <upon entering combat> <when attacking> <hidden from users>"
+        ]
+    },//section end
+    {
+        "name": "Buffalo Horns I", // only for Ikanda
+        "uniques": [
+            "[+1] Movement",
+            "[+25]% to Flank Attack bonuses",
+            "[+10]% Strength <when defending> <vs [Ranged] units>"
+        ]
+    },  //section end///////////
+    // PRUSSIA
+    {
+        "name": "Gehorsam",
+        "uniques": [
+            "Comment [Access to special promotions]"
+        ]
+    },
+    {
+        "name": "Sauna",
+        "uniques": [
+            "[+10] HP when healing <in [Friendly] tiles>"
+        ]
+    },
+    {
+        "name": "Altitude Training",
+        "uniques": [
+            "Double movement in [Snow]",
+            "Double movement in [Tundra]",
+            "Double movement in [Hill]",
+            "[+10]% Strength <when fighting in [Hill] tiles>"
+        ]
+    },
+    {
+        "name": "Swift Charge",
+        "uniques": [
+            "[+50]% Strength <vs [Sword] units>",
+            "[+25]% Strength <vs [Gunpowder] units>"
+        ]
+    },
+    {
+        "name": "Dharma",
+        "uniques": [
+            "[+20]% Strength <when defending>"
+        ]
+    },
+    {
+        "name": "Chain of the Earth",
+        "uniques": [
+            "Ignores Zone of Control"
+        ]
+    },
+    {
+        "name": "Mountaineer",
+        "uniques": [
+            "[+10]% Strength <with [1] to [6] neighboring [Mountain] tiles>",
+            "[+1] Movement <with [1] to [6] neighboring [Mountain] tiles>"
+        ]
+    },
+    {
+        "name": "Missionary Zeal",
+        "uniques": [
+            "Can Spread Religion <[1] additional time(s)>"
+        ]
+    },
+    {
+        "name": "Native Tongue",
+        "uniques": [
+            "Ignores ruins <hidden from users>",
+            "Comment [Allows you to choose your ruins reward]",
+            "Triggers a [Native Tongue full] event <upon entering a [Ancient ruins] tile> <hidden from users>"
+        ]
+    },
+    {
+        "name": "Golden Age from Victories",
+        "uniques": [
+            "Earn [100]% of killed [Military] unit's [Strength] as [Golden Age points]"
+        ]
+    },
+    {
+        "name": "Vietnamese Walking",
+        "uniques": [
+            "Double movement in [Marsh]",
+            "Double movement in [Jungle]",
+            "[+30]% Strength <when fighting in [Marsh] tiles>",
+            "[+15]% Strength <when fighting in [Jungle] tiles>"
+        ]
+    },
+    {
+        "name": "Extra Sight",
+        "uniques": ["[+1] Sight"]
+    },
+    {
+        "name": "Forest Native",
+        "uniques": [
+            "[+33]% Strength <when attacking>",
+            "[+50]% Strength <when fighting in [Forest] tiles>"]
+    },
+]
